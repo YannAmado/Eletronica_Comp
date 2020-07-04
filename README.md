@@ -1,5 +1,5 @@
 # Projeto fonte com seletor de tensão
-Yann Amado Nunes Costa : 10746943
+##Yann Amado Nunes Costa : 10746943
 
 link para o circuito no falstad : http://tinyurl.com/yaon4hzw
 
