@@ -1,7 +1,6 @@
 # Projeto fonte com seletor de tensão
 Yann Amado Nunes Costa : 10746943
 
-link para o circuito no falstad : http://tinyurl.com/yaon4hzw
 
 ### Tabela de preços : 
 
@@ -11,3 +10,8 @@ link para o circuito no falstad : http://tinyurl.com/yaon4hzw
 - LED : R$0,25x2
 - Resistor 1kOhms : R$0,75 (10 unidades)
 - LM 317 : R$7,50
+
+
+## Simulação do Circuito no Falstad:
+
+http://tinyurl.com/yaon4hzw
