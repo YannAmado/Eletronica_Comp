@@ -3,7 +3,7 @@ Yann Amado Nunes Costa : 10746943
 
 link para o circuito no falstad : http://tinyurl.com/yaon4hzw
 
-###Tabela de preços : 
+### Tabela de preços : 
 
 - Transformador 220v-12v R$38,00
 - Diodo 1N 4007: R$0,15x4
