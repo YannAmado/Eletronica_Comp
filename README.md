@@ -26,7 +26,7 @@ Docente : Eduardo do Valles Simões
 
 atual : http://tinyurl.com/yapxn24x
 
-## Esquemática Eagle
+## Esquemática e PCB
 
 Imagem da esquemática feita no eagle
 
