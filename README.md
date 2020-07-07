@@ -32,6 +32,8 @@ link para o circuito : http://tinyurl.com/ych3kog4
 
 ## Esquemática e PCB
 
+Todos os circuitos estão disponíveis dentro da página : https://github.com/YannAmado/Eletronica_Comp
+
 - Imagem da esquemática feita no eagle
 
 ![Imagem Eagle](https://github.com/YannAmado/Eletronica_Comp/blob/master/Eagle.png)
