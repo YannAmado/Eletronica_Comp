@@ -3,7 +3,9 @@ Colocar as resistencias certas Falstad
 
 # Projeto fonte com seletor de tensão
 Yann Amado Nunes Costa : 10746943
+
 Matéria : Eletrônica para Computação
+
 Docente : Eduardo do Valles Simões
 
 
