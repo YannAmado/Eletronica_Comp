@@ -27,7 +27,7 @@ Imagem do circuito feito no falstad
 
 ![Imagem falstad](https://github.com/YannAmado/Eletronica_Comp/blob/master/falstad.png)
 
-link para o circuito : http://tinyurl.com/y88qu5wj
+link para o circuito : http://tinyurl.com/ych3kog4
 
 ## Esquemática e PCB
 
