@@ -16,6 +16,7 @@ Docente : Eduardo do Valles Simões
 |       Capacitor 330uFx25V              |      R$0,34              |
 |       Capacitor 1.0uFx50V              |            3xR$0,10           |
 |           Resistor 750Ohms          |      R$0,15               |
+|           Resistor 150Ohms          |      R$0,20               |
 |        LM317             |    R$7,50                 |
 |   Potenciômetro Linear 1KΩ             |    R$1,99                 |
 
