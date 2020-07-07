@@ -1,9 +1,5 @@
 # FALTA
-Colocar imagem do eagle e do PCB no readme
-
 Colocar as resistencias certas Falstad
-
-
 
 # Projeto fonte com seletor de tensão
 Yann Amado Nunes Costa : 10746943
@@ -32,7 +28,7 @@ atual : http://tinyurl.com/yapxn24x
 
 ## Esquemática Eagle
 
-Imagem da esquemática feita eagle
+Imagem da esquemática feita no eagle
 
 ![Imagem Eagle](https://github.com/YannAmado/Eletronica_Comp/blob/master/Eagle.png)
 
