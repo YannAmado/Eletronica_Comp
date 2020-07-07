@@ -6,7 +6,7 @@ Matéria : Eletrônica para Computação
 Docente : Eduardo do Valles Simões
 
 
-### Tabela de preços : 
+## Tabela de preços : 
 
 
 | Peça                |  Preço              |
@@ -20,6 +20,7 @@ Docente : Eduardo do Valles Simões
 |   Potenciômetro Linear 1KΩ             |    R$1,99                 |
 
 
+Obs : Os resistores foram escolhidos seguindo a formula provida pelo datasheet do LM317
 
 ## Simulação do Circuito no Falstad:
 
