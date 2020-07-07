@@ -32,7 +32,7 @@ Docente : Eduardo do Valles Simões
 
 ## Simulação do Circuito no Falstad:
 
-http://tinyurl.com/y95q8t4f
+![alt text](https://github.com/[YannAmado]/[Eletronica_Comp]/blob/[master]/Eagle.png?raw=true)
 
 atual : http://tinyurl.com/yapxn24x
 
