@@ -1,6 +1,8 @@
 # FALTA
 Incluir o circuito do eagle
+
 Atualizar a tabela de preços 
+
 Consertar o falstad
 
 
