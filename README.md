@@ -1,6 +1,3 @@
-# FALTA
-Colocar as resistencias certas Falstad
-
 # Projeto fonte com seletor de tensão
 Yann Amado Nunes Costa : 10746943
 
@@ -15,18 +12,18 @@ Docente : Eduardo do Valles Simões
 | Peça                |  Preço              |
 | ------------------- | ------------------- |
 |  Transformador 220v-24v | R$41,00 |
-|  Diodo 1N 4007 |  6xR$0,15 |
-|       Capacitor 220uFx25V              |      4xR$0,25              |
-|       Capacitor 0.33uFx63V              |            R$0,50x2           |
-|           Resistor 1kOhms          |      R$0,75 (10 unidades)               |
+|  Diodo 1N 4004 |  6xR$0,15 |
+|       Capacitor 330uFx25V              |      R$0,34              |
+|       Capacitor 1.0uFx50V              |            3xR$0,10           |
+|           Resistor 750Ohms          |      R$0,15               |
 |        LM317             |    R$7,50                 |
-|   Potenciômetro Linear 100KΩ             |    R$2,90                 |
+|   Potenciômetro Linear 1KΩ             |    R$1,99                 |
 
 
 
 ## Simulação do Circuito no Falstad:
 
-atual : http://tinyurl.com/yapxn24x
+http://tinyurl.com/y88qu5wj
 
 ## Esquemática e PCB
 
