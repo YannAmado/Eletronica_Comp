@@ -1,9 +1,12 @@
 # FALTA
-Incluir o circuito do eagle (e colocar o potenciometro)
+Incluir imagem do eagle
+
+Colocar as resistencias certas Falstad
+
+Fazer o PCB
 
 Atualizar a tabela de preços 
 
-Colocar as resistencias certas no falstad
 
 
 # Projeto fonte com seletor de tensão
@@ -32,3 +35,6 @@ Docente : Eduardo do Valles Simões
 http://tinyurl.com/y95q8t4f
 
 atual : http://tinyurl.com/yapxn24x
+
+## Esquemática Eagle
+![alt text](http://prntscr.com/tdiqdg)
