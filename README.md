@@ -32,9 +32,7 @@ Docente : Eduardo do Valles Simões
 
 ## Simulação do Circuito no Falstad:
 
-![alt text](https://github.com/[YannAmado]/[Eletronica_Comp]/blob/[master]/Eagle.png?raw=true)
-
 atual : http://tinyurl.com/yapxn24x
 
 ## Esquemática Eagle
-![alt text](https://prnt.sc/tdirbr)
+![alt text](https://github.com/[YannAmado]/[Eletronica_Comp]/blob/[master]/Eagle.png?raw=true)
