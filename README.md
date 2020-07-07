@@ -1,9 +1,9 @@
 # FALTA
-Incluir o circuito do eagle
+Incluir o circuito do eagle (e colocar o potenciometro)
 
 Atualizar a tabela de preços 
 
-Consertar o falstad
+Colocar as resistencias certas no falstad
 
 
 # Projeto fonte com seletor de tensão
