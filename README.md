@@ -35,4 +35,4 @@ Docente : Eduardo do Valles Simões
 atual : http://tinyurl.com/yapxn24x
 
 ## Esquemática Eagle
-![alt text](https://github.com/[YannAmado]/[Eletronica_Comp]/blob/[master]/Eagle.png?raw=true)
+![Esquematica](https://github.com/[YannAmado]/[Eletronica_Comp]/blob/[master]/Eagle.png?raw=true)
