@@ -1,3 +1,9 @@
+# FALTA
+Incluir o circuito do eagle
+Atualizar a tabela de preços 
+Consertar o falstad
+
+
 # Projeto fonte com seletor de tensão
 Yann Amado Nunes Costa : 10746943
 
