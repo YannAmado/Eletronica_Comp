@@ -30,3 +30,5 @@ Docente : Eduardo do Valles Simões
 ## Simulação do Circuito no Falstad:
 
 http://tinyurl.com/y95q8t4f
+
+atual : http://tinyurl.com/yapxn24x
