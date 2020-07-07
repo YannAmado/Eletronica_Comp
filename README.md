@@ -1,9 +1,7 @@
 # FALTA
-Incluir imagem do eagle
+Colocar imagem do eagle e do PCB no readme
 
 Colocar as resistencias certas Falstad
-
-Fazer o PCB
 
 Atualizar a tabela de preços 
 
