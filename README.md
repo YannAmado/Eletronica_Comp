@@ -23,7 +23,11 @@ Docente : Eduardo do Valles Simões
 
 ## Simulação do Circuito no Falstad:
 
-http://tinyurl.com/y88qu5wj
+Imagem do circuito feito no falstad
+
+![Imagem falstad](https://github.com/YannAmado/Eletronica_Comp/blob/master/falstad.png)
+
+link para o circuito : http://tinyurl.com/y88qu5wj
 
 ## Esquemática e PCB
 
@@ -34,3 +38,5 @@ http://tinyurl.com/y88qu5wj
 - Imagem do PCB feito no eagle
 
 ![Imagem Eagle](https://github.com/YannAmado/Eletronica_Comp/blob/master/PCB_eagle.png)
+
+
