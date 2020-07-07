@@ -3,8 +3,6 @@ Colocar imagem do eagle e do PCB no readme
 
 Colocar as resistencias certas Falstad
 
-Atualizar a tabela de preços 
-
 
 
 # Projeto fonte com seletor de tensão
@@ -22,7 +20,6 @@ Docente : Eduardo do Valles Simões
 |  Diodo 1N 4007 |  6xR$0,15 |
 |       Capacitor 220uFx25V              |      4xR$0,25              |
 |       Capacitor 0.33uFx63V              |            R$0,50x2           |
-|           LED           |    2xR$0,25                  |
 |           Resistor 1kOhms          |      R$0,75 (10 unidades)               |
 |        LM317             |    R$7,50                 |
 |   Potenciômetro Linear 100KΩ             |    R$2,90                 |
