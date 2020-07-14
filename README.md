@@ -37,7 +37,7 @@ Todos os circuitos estão disponíveis dentro da página : https://github.com/Ya
 
 - Imagem da esquemática feita no eagle
 
-![Imagem Eagle](https://github.com/YannAmado/Eletronica_Comp/blob/master/Eagle.png)
+![Imagem Eagle](https://github.com/YannAmado/Eletronica_Comp/blob/master/Eagle_schematic.png)
 
 - Imagem do PCB feito no eagle
 
