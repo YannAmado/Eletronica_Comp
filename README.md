@@ -14,6 +14,7 @@ Docente : Eduardo do Valles Simões
 |  Transformador 220v-24v | R$41,00 |
 |  Diodo 1N 4004 |  6xR$0,15 |
 |       Capacitor 330uFx25V              |      R$0,34              |
+|       Capacitor 470uFx25V              |      R$0,33              |
 |       Capacitor 1.0uFx50V              |            3xR$0,10           |
 |           Resistor 750Ohms          |      R$0,15               |
 |           Resistor 150Ohms          |      R$0,20               |
